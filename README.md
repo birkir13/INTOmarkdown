@@ -1,6 +1,7 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+Birkir Olafsson,
+Jenna
 
 ## 1. Linux uppsetning
 
