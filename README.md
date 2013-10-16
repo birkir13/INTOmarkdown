@@ -33,7 +33,19 @@ https://github.com/birkir13/INTOPrufa/
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+LibreOffic - LGPLv3 - http://www.libreoffice.org/developers/ 
+
+GIMP - LGPLv3 og GPLv3 - http://www.gimp.org/source/#source 
+
+FireFox - Mozilla Public License (MPL) - https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Mercurial 
+
+Texmaker - GNU GPL - http://www.xm1math.net/texmaker/download.html 
+
+Transmission - GNU General Public License - https://trac.transmissionbt.com/browser
+
+VirtualBox - GNU GPLw2 - https://www.virtualbox.org/wiki/Downloads 
+
+Ubuntu - GNU GPL/GNU LGPL - https://code.launchpad.net/ubuntu/+source/curl
 
 ## 5. Unnið með Git (2. hluti)
 
